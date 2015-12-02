@@ -1,8 +1,7 @@
 # PORTAL AngoDev
 
 
-
-## How to contribute
+## Como contribuir
 
 1. Fork it (https://github.com/AngoDev/PortalAngoDev/fork)
 2. Create your feature branch based on 'develop' branch (git checkout -b my-new-feature develop)
@@ -12,6 +11,15 @@
 
 NOTE: Other developers may modify your contribution. Don't take that personal; we all want to improve the Project. Your input is always welcome!
 
-## License
+## Decisões até agora:
 
-Copyright © 2015 AngoDev, released under the MIT license
+Repositório: Github
+Linguagem: PHP (Laravel)
+Banco de dados: PostgreSQL
+Framework gráfico: Bootstrap
+
+OBS: Obtenha concordância com os demais membros antes de usar qualquer outra biblioteca javascript para além da jquery os pre-requisitos obrigatórios para as tecnologias já definidas.
+
+## Licença
+
+Copyright © 2015 AngoDev
