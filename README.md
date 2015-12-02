@@ -1,6 +1,16 @@
 # PORTAL AngoDev
 
+## How to Install
 
+> $ git clone https://github.com/AngoDev/PortalAngoDev.git
+> $ cd PortalAngoDev
+> $ mv config.php.sample config.php
+> $ composer self-update
+> $ composer install
+
+## How to Run Tests
+
+> $ ./vendor/bin/phpunit --colors tests/
 
 ## How to contribute
 
