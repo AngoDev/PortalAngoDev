@@ -1,3 +1,5 @@
-config.php
+/config.php
 
-logs/*.log
+/logs/*.log
+
+/tmp/templates_c/*.tpl.php
