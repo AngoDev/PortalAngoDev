@@ -1,0 +1,52 @@
+body {
+  background-color: #EEEEEE;
+}
+
+header {
+  margin-top: 5px;
+}
+
+.navbar-top {
+  background-color: #FFFFFF;
+  height: 30px;
+  line-height: 30px;
+}
+
+.navbar-top .social_icons {
+  font-size: 20px;
+}
+
+header .container {
+  background-color: #FFF;
+  height: 100px;
+  line-height: 100px;
+}
+header .container img {
+  width: 300px;
+}
+
+.navbar-header .navbar-brand {
+  padding: 0px;
+  margin: 0px;
+}
+
+.navbar-header .navbar-brand i {
+  font-size: 40px;
+  line-height: 50px;
+  margin-left: 5px;
+}
+
+.main-content {
+  background-color: #FFF;
+  margin-top: 5px;
+  margin-bottom: 5px;
+
+  /* temporary */
+  height: 500px;
+}
+
+footer {
+  background-color: #042A36;
+  color: #eee;
+  padding-top: 5px;
+}
