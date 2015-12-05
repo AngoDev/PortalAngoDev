@@ -1,3 +1,10 @@
-config.php
+.DS_store
 
-logs/*.log
+/config.php
+
+/logs/*.log
+
+/tmp/templates_c/*.tpl.php
+
+/vendor
+
