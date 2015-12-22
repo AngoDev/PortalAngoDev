@@ -5,3 +5,6 @@
 /logs/*.log
 
 /tmp/templates_c/*.tpl.php
+
+/vendor
+
