@@ -42,7 +42,7 @@ header .container img {
   margin-bottom: 5px;
 
   /* temporary */
-  height: 500px;
+  min-height: 500px;
 }
 
 footer {
