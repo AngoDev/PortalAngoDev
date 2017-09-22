@@ -1,7 +1,3 @@
-.DS_store
+config.php
 
-/config.php
-
-/logs/*.log
-
-/tmp/templates_c/*.tpl.php
+logs/*.log
